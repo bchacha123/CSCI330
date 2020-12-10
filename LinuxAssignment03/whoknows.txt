@@ -1,0 +1,8 @@
+
+		
+	I am inside whoknows.txt 
+	My name is Brayan Chacha
+	I assisnt to NIU. 
+	And I'm creating the cat
+	command using C++ and Linux
+ 

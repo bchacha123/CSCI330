@@ -1,0 +1,31 @@
+Script started on 2020-01-21 21:49:29-06:00 [TERM="xterm" TTY="/dev/pts/3" COLUMNS="91" LINES="30"]
+]0;z1861700@hopper: ~z1861700@hopper:~$ whoami
+z1861700
+]0;z1861700@hopper: ~z1861700@hopper:~$ ls
+assignment00.cc  [0m[01;34mcsci340-3-spring2020-assignment00-bchacha123[0m  [01;36mpublic_html[0m  typescript
+[01;36mcourse_html[0m      hal                                           README.md
+]0;z1861700@hopper: ~z1861700@hopper:~$ echo Hello,Dag[K[K[K Da[K[K[KDave
+Hello,Dave
+]0;z1861700@hopper: ~z1861700@hopper:~$ echo I am sory[Kry[K[Ky.[K[Kry, I cannot do thatm[K, > hall
+]0;z1861700@hopper: ~z1861700@hopper:~$ ls
+assignment00.cc  [0m[01;34mcsci340-3-spring2020-assignment00-bchacha123[0m  hall         README.md
+[01;36mcourse_html[0m      hal                                           [01;36mpublic_html[0m  typescript
+]0;z1861700@hopper: ~z1861700@hopper:~$ clear
+[H[2J[3J]0;z1861700@hopper: ~z1861700@hopper:~$ echoI [K[K i [K[KI am sorry, I cannot do that [K, Dave > hal
+]0;z1861700@hopper: ~z1861700@hopper:~$ ls
+assignment00.cc  [0m[01;34mcsci340-3-spring2020-assignment00-bchacha123[0m  hall         README.md
+[01;36mcourse_html[0m      hal                                           [01;36mpublic_html[0m  typescript
+]0;z1861700@hopper: ~z1861700@hopper:~$ cat hai[Kl
+I am sorry, I cannot do that, Dave
+]0;z1861700@hopper: ~z1861700@hopper:~$ rm hal
+]0;z1861700@hopper: ~z1861700@hopper:~$ ls
+assignment00.cc  [0m[01;34mcsci340-3-spring2020-assignment00-bchacha123[0m  [01;36mpublic_html[0m  typescript
+[01;36mcourse_html[0m      hall                                          README.md
+]0;z1861700@hopper: ~z1861700@hopper:~$ rm hall
+]0;z1861700@hopper: ~z1861700@hopper:~$ ls
+assignment00.cc  [0m[01;34mcsci340-3-spring2020-assignment00-bchacha123[0m  README.md
+[01;36mcourse_html[0m      [01;36mpublic_html[0m                                   typescript
+]0;z1861700@hopper: ~z1861700@hopper:~$ ^C
+]0;z1861700@hopper: ~z1861700@hopper:~$ exit
+
+Script done on 2020-01-21 22:01:48-06:00 [COMMAND_EXIT_CODE="130"]
